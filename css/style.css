@@ -45,6 +45,11 @@ img {
     width: 100%;
 }
 
+a img{
+display: block;
+text-align: center;
+}
+
 h1 {
     text-align: center;
 }
